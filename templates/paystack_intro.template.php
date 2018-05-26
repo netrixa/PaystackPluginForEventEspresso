@@ -1,0 +1,1 @@
+<?php printf( __('Paystack is a payment method for accepting payments and is available to event organizers in many countries. A Paystack account is needed to accept payments. Need a Paystack account?  %1$sclick here to sign up %2$s.', 'event_espresso'), '<a href="https://dashboard.paystack.com/#/signup" target="_blank">','</a>' ); ?> 
